@@ -55,3 +55,18 @@ p {
   text-align: center;
   background: #ebebeb;
 }
+
+
+ /* Use three @media screen tags, each with one of these max-widths: 980px, 768px and 640px. */
+
+@media screen and (max-width: 980px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) {
+  
+}
